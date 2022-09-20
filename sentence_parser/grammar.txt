@@ -1,0 +1,6 @@
+sentence: noun-phrase verb-phrase
+noun-phrase: article noun
+article: a|an|the
+noun: cat|rat
+verb-phrase: verb noun-phrase
+verb: ate|killed|chased
